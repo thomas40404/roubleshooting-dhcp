@@ -1,7 +1,8 @@
 # Exercices de troubleshooting DHCP 2
 
 - **Auteur(s)** : Charlier Thomas  
-- **Date** : 08/11/2025  
+- **Date** : 08/11/2025
+*Remarque : la mise en page de ce fichier Markdown (.md) a été réalisée avec l'aide de ChatGPT, car je n'avais pas de connaissances préalables sur les fichiers .md.*
 
 ---
 
